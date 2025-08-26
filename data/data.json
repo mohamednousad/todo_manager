@@ -1,0 +1,29 @@
+{
+  "tasks": {
+    "todo": [
+      {
+        "id": "1b4be25f-773e-4f58-990c-b62f36f686a1",
+        "title": "1",
+        "description": "1",
+        "timestamp": "2025-08-26T20:10:04.924Z"
+      }
+    ],
+    "done": [
+      {
+        "id": "84d96942-81e4-4e89-b3ae-43baf3f0c3d0",
+        "title": "1",
+        "description": "111",
+        "timestamp": "2025-07-24T09:17:50.492Z"
+      }
+    ],
+    "ignored": [
+      {
+        "id": "14c8266c-78d4-44bb-af48-130416a13a8a",
+        "title": "new task",
+        "description": "adsad",
+        "timestamp": "2025-08-26T19:36:40.706Z"
+      }
+    ]
+  },
+  "lastModified": "2025-08-26T20:10:04.924Z"
+}
